@@ -1,0 +1,10 @@
+-build a little web app that checks for certain 
+key words from twitter and 
+-send a notification to an email address as well as 
+-store the tweet in a database.
+------------------------------------------------------
+You can use django and  twitter api to achieve this.
+
+-Postman
+-Coding Practice
+-Create a Project Repo
