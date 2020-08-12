@@ -5,5 +5,4 @@ from django.db import models
 class Tweet(models.Model):
     date = models.DateField()
     tweet = models.CharField(max_length=300)
-    username = models.CharField(max_length=20)
     
